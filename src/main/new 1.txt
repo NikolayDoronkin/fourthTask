@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<cards>
+		<oldCards>
+			<author>Nikolay Doronkin</author>
+			<address>
+				<country>Belarus</country>
+				<city>Minsk</city>
+				<street>Sovetsky</street>
+				<numberOfBuilding>45</numberOfBuilding>
+			</address>
+		</oldCards>
+		<oldCards>
+		    <author>test</author>
+			<address>
+				<country>Belarus</country>
+				<city>Minsk</city>
+				<street>Golden slide</street>
+				<numberOfBuilding>11</numberOfBuilding>
+			</address>
+		</oldCards>
+	</cards>
